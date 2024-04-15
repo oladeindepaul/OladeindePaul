@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Oladeinde A. Paul. A frontend developer, HTML, CSS and Javascript.
+Looking forward to meet you 
 
 <!--
 **oladeindepaul/OladeindePaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
